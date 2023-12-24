@@ -1,4 +1,7 @@
 
+![Github2](https://github.com/diya-basu/diya-basu/assets/80905996/66cee46a-c78b-499a-ac3f-828180272725)
+
+
 # Heyyy! 👋 I'm Diya, a Creative Developer,Content Writer and an AI-ML Programmer🚀<br>
 I am a dedicated, passionate developer currently pursuing a degree in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning. Set to graduate from college in July 2025, I’m excited to deploy my skill set in the real world and have an active hand in the rapidly changing technology of today. Owing to my love for doomsday tech films: My projects under development range from working with AI-ML frameworks and Large language models to creating immersive websites with storytelling techniques.
 I am an avid internet observer, and like to gather inspiration from anything and everything I can find on the internet. When I am not stuck on a bug on line 42(of 400) I like to spend my time reading and returning back to my childhood of fine arts.
