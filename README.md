@@ -36,7 +36,7 @@ Check out my <a href="https://diya-basu.github.io/portfolio/" target="_blank">Po
     </th>
   </tr>
   <tr>
-    <td valign="bottom">
+    <td align="center">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes" width="400" height="160"/>
     </td>
     <td align="center" valign="top">
