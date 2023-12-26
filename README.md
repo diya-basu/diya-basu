@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/diya-basu/diya-basu/assets/80905996/66cee46a-c78b-499a-ac3f-828180272725" alt="Github2" />
+  <img src="https://github.com/diya-basu/diya-basu/assets/80905996/66cee46a-c78b-499a-ac3f-828180272725" alt="Github2"/>
 </p>
 
 <h3 align="center">
@@ -26,15 +26,22 @@ Check out my <a href="https://diya-basu.github.io/portfolio/" target="_blank">Po
 
 <br>
 <br>
-
-<table>
-<tr>
-<th><img src="https://github.com/diya-basu/diya-basu/assets/80905996/9b61b537-4612-446b-8c72-01bc6077e32e" alt="Stars" /></th>
-
-<th> <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-basu&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="350"/></th>
-</tr>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya-basu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="700"/> </td>
-<td> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes"/></td>
-</tr>
+<table height="400">
+  <tr>
+    <th valign="bottom">
+      <img src="https://github.com/diya-basu/diya-basu/assets/80905996/9b61b537-4612-446b-8c72-01bc6077e32e" alt="Stars" width="600" height="160"/>
+    </th>
+    <th valign="bottom">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-basu&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+    </th>
+  </tr>
+  <tr>
+    <td valign="bottom">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya-basu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    </td>
+  </tr>
 </table>
+
