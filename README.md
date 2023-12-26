@@ -32,7 +32,7 @@ Check out my <a href="https://diya-basu.github.io/portfolio/" target="_blank">Po
       <img src="https://github.com/diya-basu/diya-basu/assets/80905996/9b61b537-4612-446b-8c72-01bc6077e32e" alt="Stars" width="600" height="160"/>
     </th>
     <th valign="bottom">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-basu&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="600" height="160"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-basu&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="1000" height="160"/>
     </th>
   </tr>
   <tr>
@@ -40,7 +40,7 @@ Check out my <a href="https://diya-basu.github.io/portfolio/" target="_blank">Po
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="GitHub Quotes"/>
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya-basu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="600" height="160"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya-basu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="1000" height="160"/>
     </td>
   </tr>
 </table>
