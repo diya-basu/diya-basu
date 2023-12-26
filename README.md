@@ -32,7 +32,7 @@ Check out my <a href="https://diya-basu.github.io/portfolio/" target="_blank">Po
       <img src="https://github.com/diya-basu/diya-basu/assets/80905996/9b61b537-4612-446b-8c72-01bc6077e32e" alt="Stars" width="600" height="160"/>
     </th>
     <th valign="bottom">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-basu&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=diya-basu&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
     </th>
   </tr>
   <tr>
