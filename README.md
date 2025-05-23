@@ -12,7 +12,7 @@ I am an avid internet observer, and like to gather inspiration from anything and
 Scroll to find out more.
 Thank you for visiting!😊
 
-Check out my <a href="https://diya-basu.github.io/portfolio/" target="_blank">Portfolio</a> 💻
+Check out my <a href="https://www.diyabasu.com" target="_blank">Portfolio</a> 💻
 
 
 ## 🌐 Get in Touch!:
